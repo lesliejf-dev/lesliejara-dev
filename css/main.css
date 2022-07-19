@@ -313,10 +313,14 @@ textarea {
 
 
    .console-container {
-    font-size: 3.9vw;
+    font-size: 6vw;
     font-family: 'Maven Pro', sans-serif;
-    padding-top: 10rem;
-    
+    padding-top: 10rem;    
+  }
+  @media (min-width: 768px) {
+    .console-container {
+      font-size: 3.9vw;
+    }
   }
   .console-underscore {
      display:inline-block;
