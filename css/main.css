@@ -391,8 +391,8 @@ textarea {
 
    /* PROJECTS */
    .card {
-    width: 400px;
-    height: 650px;
+    width: 370px;
+    height: 700px;
     background-color: white;
     box-shadow: 0 20px 60px #FF9776;
     padding: 20px;
@@ -418,7 +418,7 @@ textarea {
     height: 100%;
     border-radius: 15px;
     overflow: hidden;
-    margin-right: 15px;
+    margin-right: 5px;
    }
 
    .card .card-img img{
@@ -447,7 +447,7 @@ textarea {
    .card-text p {
     font-weight: 300;
     margin-bottom: 10px;
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
    }
    .botones-w {
     margin-top: 20px;    
@@ -573,7 +573,7 @@ textarea {
     height: 100px;
     background-color: white;
     box-shadow: 0 20px 60px #FF9776;
-    padding: 20px;
+    padding: 10px;
     border-radius: 25px;
     display: grid;    
     justify-content: center;
@@ -667,7 +667,7 @@ textarea {
   }
   .social-links p {
     display: flex;  
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #ccc;
     text-align: center;
   }  
