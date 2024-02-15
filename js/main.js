@@ -6,7 +6,7 @@ menu.addEventListener('click', () => {
 })
 
 //Nombre cambio color
-consoleText(['Leslie Jara.', 'Leslie Jara', 'Leslie Jara.'], 'text',['#8283DA','#ff667d','#FF9776']);
+consoleText(['fullstack developer.', 'fullstack developer', 'fullstack developer.'], 'text',['#8283DA','#ff667d','#FF9776']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
